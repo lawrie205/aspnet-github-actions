@@ -18,5 +18,3 @@ The steps to run are:
 4. Run a container with: `docker run --rm -it -p 8080:80 webapp`
 5. Open your browser and navigate to: [http://localhost:8080](localhost:8080)
 
-## Thanks!
-And don't forget to visit [blog.hildenco.com](https://blog.hildenco.com).
